@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# IntelliJ IDEA project files
+.idea/
+# Output folder
+out/
+# Ignore all Main.java files in any subfolder
+**/Main.java
+# For Extra Safe from .class files
+*.class
